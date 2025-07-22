@@ -1,0 +1,1 @@
+print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to <be able to build models that will be able to secure users data all at once  instead of doing the traditional security method of hashing one password at a time the agent shound be  able to secure huge amount of data at a time>")
