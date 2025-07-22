@@ -1,0 +1,1 @@
+print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to solve real world problems with code and AI leveraging most/all AI tools and resources available!>")
