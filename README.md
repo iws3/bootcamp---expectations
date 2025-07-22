@@ -1,5 +1,3 @@
-Below is a ready-to-copy README.md you can drop straight into the repository you create.  
-It is written for **DeepSeeds**—the students of the Ultimate GenAI Course, Bamenda 2025—and walks them through their very first open-source contribution.
 
 ---
 
