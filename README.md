@@ -4,7 +4,7 @@
 # 🌱 DeepSeeds – First Contribution Playground  
 *“From Seed to Sequoia”*
 
-Welcome, DeepSeed!  
+Welcome, DESMOND!  
 This repository is a safe place to practise the complete **fork → clone → branch → pull-request** workflow you will use in every open-source project.
 
 ---
