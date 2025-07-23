@@ -1,1 +1,1 @@
-print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to be an entrepreneur that designs, develops and effectively showcases his GenAI ideas.")
+print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to be an entrepreneur that designs, develops and passionately showcases his GenAI ideas through effective presentations.")
