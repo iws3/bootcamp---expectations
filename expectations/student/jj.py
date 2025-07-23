@@ -1,0 +1,1 @@
+print("My expectations at the end of the Gen ai bootcamp are to gain practical skills, deepen my understanding, and be confident in applying what I've learned.")
