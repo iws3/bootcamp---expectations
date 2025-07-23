@@ -1,0 +1,1 @@
+print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to leverage AI to solve at least a pertinent problem in Bamenda or Cameroon")
