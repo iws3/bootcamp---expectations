@@ -43,7 +43,7 @@ git merge upstream/m
 ```
 
 ### 4. Create & switch to a new branch
-```bash
+```bas
 git checkout -b add-<your-first-name>
 ```
 

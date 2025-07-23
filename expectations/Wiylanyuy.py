@@ -1,0 +1,1 @@
+print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to able use version control systems with ease, master the concept of project management and be able realise my projects with the knowledge obtained.>")
