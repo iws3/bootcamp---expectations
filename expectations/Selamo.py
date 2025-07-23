@@ -1,0 +1,1 @@
+print("At the end of the Ultimate GenAI Course Bamenda 2025, I expect to be gainknowledge and skills in AI Enginneering that will enable me to be able to solve Real life problems and also by the end of the bootcamp i expect to have created a project that is solving a real life problem")
